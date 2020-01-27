@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="softwaretestingmaterial" duration-ms="42996" started-at="2020-01-26T16:45:57Z" finished-at="2020-01-26T16:46:40Z">
+    <groups>
+    </groups>
+    <test name="testngTest" duration-ms="42996" started-at="2020-01-26T16:45:57Z" finished-at="2020-01-26T16:46:40Z">
+      <class name="com.Tests.TestCases">
+        <test-method status="PASS" signature="start()[pri:0, instance:com.Tests.TestCases@59f99ea]" name="start" is-config="true" duration-ms="19183" started-at="2020-01-26T16:45:57Z" finished-at="2020-01-26T16:46:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="verifyBorrowingEstimate()[pri:0, instance:com.Tests.TestCases@59f99ea]" name="verifyBorrowingEstimate" duration-ms="16883" started-at="2020-01-26T16:46:17Z" finished-at="2020-01-26T16:46:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBorrowingEstimate -->
+        <test-method status="PASS" signature="verifyClearForm()[pri:0, instance:com.Tests.TestCases@59f99ea]" name="verifyClearForm" duration-ms="416" started-at="2020-01-26T16:46:33Z" finished-at="2020-01-26T16:46:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyClearForm -->
+        <test-method status="PASS" signature="verifyUnableToGiveAnEstimateOfYourBorrowing()[pri:0, instance:com.Tests.TestCases@59f99ea]" name="verifyUnableToGiveAnEstimateOfYourBorrowing" duration-ms="2304" started-at="2020-01-26T16:46:34Z" finished-at="2020-01-26T16:46:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUnableToGiveAnEstimateOfYourBorrowing -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Tests.TestCases@59f99ea]" name="tearDown" is-config="true" duration-ms="3887" started-at="2020-01-26T16:46:36Z" finished-at="2020-01-26T16:46:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Tests.TestCases -->
+    </test> <!-- testngTest -->
+  </suite> <!-- softwaretestingmaterial -->
+</testng-results>
